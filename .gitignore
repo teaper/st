@@ -1,5 +1,6 @@
 st
 *.o
+*.rej
 pkg/
 *.pkg.tar.xz
 patches
