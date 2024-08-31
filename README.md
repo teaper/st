@@ -72,7 +72,7 @@ Add `st.url = "github:siduck/st";` to your inputs and install `inputs.st.package
 - xresources
 - sync patch ( Better draw timing to reduce flicker/tearing and improve animation smoothness )
 - live reload ( change colors/fonts on the fly )
-  and more...
+- st-swapmouse
   <br>
 
 ## Xresources live-reload
